@@ -115,7 +115,7 @@ section{
     -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
     -moz-column-gap: 30px; /* Firefox */
     column-gap: 30px;
-    padding-bottom: 5%;
+    padding-bottom: 1%;
 }
 /* ---------------------- */
 /* ESTILOS CONTENEDOR 3 */
@@ -213,11 +213,12 @@ section{
 	width: 50%;
 	margin: auto;
 }
-/* FIN ESTILOS CONTENEDOR 8 */
+/* FIN ESTILOS CONTENEDOR 7 */
 /* ESTILOS CONTENEDOR 8 */
 #contenedor8{
 	display: block;
 	margin: 0;
+	text-align: center;
 }
 #mapaseparacion{
 	padding: 1%;
@@ -230,7 +231,7 @@ section{
 	height: 450px;
 	margin-bottom: 2%;
 }
-/* FIN ESTILOS CONTENEDOR 9 */
+/* FIN ESTILOS CONTENEDOR 8 */
 /* EXTRAS // FINAL DE PÁGINA */
 #gracias{
 	text-align: center;
